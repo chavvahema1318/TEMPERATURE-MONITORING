@@ -1,0 +1,26 @@
+# Arduino IDE temporary files
+build/
+bin/
+layout/
+*.swp
+*.bak
+*.hex
+*.elf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code / PlatformIO (if used)
+.vscode/
+.pio/
+.clang-tidy
+
+# Simulation/CAD export files
+*.pdsbak
+*.log
